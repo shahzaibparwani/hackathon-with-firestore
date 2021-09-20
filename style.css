@@ -1,0 +1,109 @@
+label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+  }
+  
+  #login_box {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+  }
+  
+  .parent-box {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  .logout{
+        margin-left: 90%;
+        background-color: #4CAF50;
+        border: none;
+        color: white;
+        text-decoration: none;
+        cursor: pointer;
+        border-radius: 5px;
+        padding: 10px;
+    
+  }
+  
+  
+        .login,
+        .signup {
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            padding: 8px 16px;
+            text-decoration: none;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+  
+  #balloon div{
+      background: #ff3300;
+      height: 121px;
+      width: 119px;
+      color: #222020;
+      font-size: 40px;
+      font-family: sans-serif, arial;
+      border-radius: 100%;
+      margin-top: 20px;
+      display: inline-block;
+      
+  }
+  #congrats {
+      display:none;
+      color:#ff3300;
+      font-size:30px;
+  }
+  
+  
+  
+  
+    #congrats2 {
+      display:none;
+      color:#ff3300;
+      font-size:30px;
+  }
+  
+  
+  #bttn{
+  
+  background-color: white;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  
+  cursor: pointer;
+  }
+  
+       
+  input[type=text] {
+      width: 100%;
+      padding: 12px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      resize: vertical;
+    }
+  
+    
+    
+    #ani {
+        width: 400px;
+        height: 100px;
+        border: 1px solid #c3c3c3;
+        display: flex;
+        justify-content: space-between;
+      }
+      
+     #main div {
+        width: 70px;
+        height: 70px;
+      }
+
+      
+      
+      
